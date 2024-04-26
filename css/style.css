@@ -361,7 +361,7 @@ button {
     font-size: 25px;
     color: #fff;
     border-radius: 60px;
-    top: 97.6%;
+    top: 90%;
 }
 
 #myCarousel .carousel-control-prev:hover,
@@ -373,7 +373,6 @@ button {
     width: 57px;
     height: 57px;
     font-size: 30px;
-    top: 96%;
 }
 
 #myCarousel a.carousel-control-prev {
